@@ -10,6 +10,6 @@ mevcuttur. Kullanıcının isterse kendi ürünlerini koyabileceği ayrı bir sa
 Kullanıcının email ve adının gösterildiği profil sayfası bulunmaktadır. Aynı zamanda profil sayfası 
 üzerinden oturumu kapatabilmektedir.
 
-Projenin akran görüntüleri aşağıda mevcuttur:
+Projenin ekran görüntüleri aşağıda mevcuttur:
 
 ![Pinterest Regular Pin Photo Collage 6](https://user-images.githubusercontent.com/74631023/133939889-263f7947-4a8c-4007-8493-aeded0739b0f.png)
